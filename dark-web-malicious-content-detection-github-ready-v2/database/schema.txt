@@ -1,0 +1,2 @@
+Application prediction table observed in the supplied database: User_predictionresult (rows observed: 2).
+Other Django authentication/session tables were present and are intentionally excluded from the public repository.
